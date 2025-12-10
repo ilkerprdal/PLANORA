@@ -4,12 +4,12 @@
 
 ## 1. Giriş
 
-HomeWallet ("biz", "bize" veya "bizim"), kullanıcılarımızın ("siz" veya "sizin") gizliliğini korumaya kararlıdır. Bu Gizlilik Politikası, HomeWallet mobil uygulamasını ("Uygulama") kullandığınızda kişisel bilgilerinizin nasıl toplandığını, kullanıldığını ve korunduğunu açıklar.
+Planora ("biz", "bize" veya "bizim"), kullanıcılarımızın ("siz" veya "sizin") gizliliğini korumaya kararlıdır. Bu Gizlilik Politikası, HomeWallet mobil uygulamasını ("Uygulama") kullandığınızda kişisel bilgilerinizin nasıl toplandığını, kullanıldığını ve korunduğunu açıklar.
 
 ## 2. Topladığımız Bilgiler
 
 ### 2.1 Kişisel Bilgiler
-HomeWallet uygulaması, kullanıcıdan doğrudan kişisel bilgi toplamaz. Uygulama hesap oluşturma, giriş yapma veya kişisel kimlik bilgileri gerektirmez.
+Planora uygulaması, kullanıcıdan doğrudan kişisel bilgi toplamaz. Uygulama hesap oluşturma, giriş yapma veya kişisel kimlik bilgileri gerektirmez.
 
 ### 2.2 Finansal Veriler
 Kullanıcılar tarafından girilen tüm finansal veriler (gelir, gider, hesap bakiyeleri, vb.):
@@ -84,7 +84,7 @@ Android cihazlarda reklam kimliğinizi yönetebilirsiniz:
 
 ## 8. Çocukların Gizliliği
 
-HomeWallet, 13 yaşın altındaki çocuklardan bilerek kişisel bilgi toplamaz. Ebeveynler, çocuklarının bu uygulamayı kullanmasına izin vermeden önce gözetim altında tutmalıdır.
+Planora, 13 yaşın altındaki çocuklardan bilerek kişisel bilgi toplamaz. Ebeveynler, çocuklarının bu uygulamayı kullanmasına izin vermeden önce gözetim altında tutmalıdır.
 
 ## 9. Değişiklikler
 
